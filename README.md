@@ -94,7 +94,8 @@ scanned-pdf-translator/
 
 ## 🖼️ Screenshots
 
-> *(Add screenshots here once hosted)*
+> ![image](https://github.com/user-attachments/assets/f5d492d1-7a7a-4de2-8b6a-f48f676ab1a2)
+
 
 ---
 
