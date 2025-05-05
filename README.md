@@ -22,7 +22,7 @@ A Streamlit web application that:
 
 ## 🖥️ Live Demo
 
-> 🚧 Coming soon (host via Railway or local Docker)
+> 🚧 (https://scanned-pdf-translator-production.up.railway.app/)
 
 ---
 
